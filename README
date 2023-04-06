@@ -29,3 +29,33 @@ www.microsoft.com:
 
     All pings have Lost = 0(0% loss).
     IP address did not change.
+
+
+
+tracert:
+    www.amazon.com:
+        target server IP address: 18.172.169.208
+        14 hops were needed.
+        I cannot identify my ISP provider from the intermediate DNS name.
+        hop 1 is a Class C IP address, hop 2, 3, 5, 6 are Class B addresses and 7, 13 and 14 hops are Class A addresses.
+
+    www.google.com:
+        target server IP address: 172.217.14.228
+        10 hops were needed.
+        I cannot identify my ISP provider from the intermediate DNS name.
+        hop 1, 7, 9 are Class C IP addresses, hop 2, 3, 5, 6, 8, 10 are Class B addresses and no Class A addresses were found.
+
+     www.microsoft.com:
+        target server IP address: 96.16.69.169
+        18 hops were needed.
+        I cannot identify my ISP provider from the intermediate DNS name.
+        hop 1, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 are Class C IP addresses, hop 2, 3, 5, 7, 10 are Class B addresses and hop 6, 18 are Class A addresses.
+
+        
+Spy on your opponents:
+    Even though I failed to find my username or other relevant information about my ongoing game, I did find some interesting info.
+    1. The WOW protocol stands for the communication between a client and a World Of Warcraft Authentication server, which is a game that owned by the company who owns the game I was playing: Overwatch.
+    2. No.6170 and 6172 is a Hello Message between client and server as I was closing the game. Since it uses TCP, I assume it was disconnecting me from the server.
+    3. During the game, a lot of packets were sent with UDP protocol, but I cannot find any valuable info from the packet as they are encrypted.
+
+
