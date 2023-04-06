@@ -1,0 +1,31 @@
+ping: 
+    www.amazon.com:
+    1. Minimum = 0ms, Maximum = 0ms, Average = 0ms, from 18.172.169.208
+    2. Minimum = 21ms, Maximum = 21ms, Average = 21ms, from 104.107.106.50
+    3. Minimum = 21ms, Maximum = 21ms, Average = 21ms, from 104.107.106.50
+    stddev: Minimum = 12.124355652982, Maximum = 12.124355652982, Average = 12.124355652982
+
+    All pings have Lost = 0(0% loss).
+    IP address changed after the first ping. 
+
+
+
+www.google.com:
+    1. Minimum = 0ms, Maximum = 0ms, Average = 0ms, from 142.250.217.100
+    2. Minimum = 0ms, Maximum = 0ms, Average = 0ms, from 142.250.217.100
+    3. Minimum = 0ms, Maximum = 0ms, Average = 0ms, from 142.250.217.100
+    sttdev: Minimum = 0, Maximum = 0, Average = 0
+
+    All pings have Lost = 0(0% loss).
+    IP address did not change.
+
+
+
+www.microsoft.com:
+    1. Minimum = 21ms, Maximum = 21ms, Average = 21ms, from 96.16.69.169
+    2. Minimum = 21ms, Maximum = 21ms, Average = 21ms, from 96.16.69.169
+    3. Minimum = 21ms, Maximum = 21ms, Average = 21ms, from 96.16.69.169
+    sttdev: Minimum = 0, Maximum = 0, Average = 0
+
+    All pings have Lost = 0(0% loss).
+    IP address did not change.
